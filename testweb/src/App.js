@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          new chnzges
+          new chnzges 12334444
         </a>
       </header>
     </div>
